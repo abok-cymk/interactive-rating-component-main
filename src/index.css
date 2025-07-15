@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-overpass: "Overpass", sans-serif;
+
+  --color-Orange-500: hsl(25, 97%, 53%);
+  --color-Grey-500: hsl(217, 12%, 63%);
+  --color-Grey-900: hsl(213, 19%, 18%);
+  --color-Grey-950: hsl(216, 12%, 8%);
+}
+
+@font-face {
+  font-family: "Overpass";
+  font-weight: 400;
+  src: url("/src/assets/fonts/Overpass/static/Overpass-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Overpass";
+  font-weight: 700;
+  src: url("/src/assets/fonts/Overpass/static/Overpass-Bold.ttf");
+}
