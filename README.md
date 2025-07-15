@@ -1,29 +1,50 @@
-  <!-- Rating state start -->
+# Frontend Mentor - Interactive rating component solution
 
-  How did we do?
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-  Please let us know how we did with your support request. All feedback is appreciated 
-  to help us improve our offering!
+## Table of contents
 
-  1 2 3 4 5
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-  Submit
+## Overview
 
-  <!-- Rating state end -->
+### The challenge
 
-  <!-- Thank you state start -->
+Users should be able to:
 
-  You selected <!-- Add rating here --> out of 5
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
-  Thank you!
+### Screenshot
 
-  We appreciate you taking the time to give a rating. If you ever need more support, 
-  don’t hesitate to get in touch!
+![](./rating.jpeg)
 
-  <!-- Thank you state end -->
+### Links
 
-  
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+- Solution URL: [solution URL](https://your-solution-url.com)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+## Author
+
+- Frontend Mentor - [@abok-cymk](https://www.frontendmentor.io/profile/abok-cymk)
+- Twitter - [@abokallan22](https://www.twitter.com/abokallan22)
+
